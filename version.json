@@ -1,0 +1,11 @@
+{
+  "versionCode": 17,
+  "versionName": "1.7",
+  "forceUpdate": true,
+  "apkUrl": "https://github.com/Uttam833/HitMaal_Updates/releases/download/V1.7/HitMaal_V1.7.apk",
+  "changelog": [
+    "Improved performance",
+    "Bug fixes",
+    "New UI enhancements"
+  ]
+}
